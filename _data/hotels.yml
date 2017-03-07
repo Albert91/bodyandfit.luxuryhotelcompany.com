@@ -49,7 +49,10 @@
   tagline: HISTORISCH LANDGOED MIDDEN IN DE NATUUR
   image: "/uploads/2017/03/07/LandgoedEhzerwold.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=445&country=1&la=2&autoLogin=true&actie=U0D3-HYTA-XHP9
-  points: []
+  points:
+  - 3 Nachten incl. ontbijt voor 2 personen
+  - 2x Dinerbuffet voor 2 personen
+  - Fietshuur incl. routes
 - title: Lindner Hotel & City Lounge
   location: Antwerpen
   tagline: 4 STERREN HOTEL IN HARTJE ANWERPEN
