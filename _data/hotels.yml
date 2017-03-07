@@ -1,22 +1,31 @@
 ---
-- title: Lindner Hotel & City Lounge
-  location: Antwerpen
-  tagline: 4 STERREN HOTEL IN HARTJE ANWERPEN
-  image: forestryio/images/Lindner_Antwerpen.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=196&country=4&la=2&autoLogin=true&actie=ETOS-CQGHJ
+- title: Herberg de Gouden Leeuw
+  location: Bronkhorst
+  tagline: OVERNACHT IN NL'S KLEINSTE STADJE
+  image: forestryio/images/Gouden_leeuw.png
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=385&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
   points:
   - 2 Nachten incl. ontbijt voor 2 personen
-  - Fles bubbels op de kamer
-  - Vrij gebruik van fitness en sauna
-- title: Hampshire Hotel Zuid Drente
-  location: Erica
-  tagline: DROMEN IN DRENTHE
-  image: forestryio/images/Hampshire_ZuidDrenthe.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=203&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
+  - 1 x 3-Gangendiner voor 2 personen
+  - 1 x 4-Gangendiner voor 2 personen
+- title: Hampshire Paping en Spa
+  location: Ommen
+  tagline: SPA & WELLNESS HOTEL
+  image: forestryio/images/paping.png
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=350&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
   points:
   - 2 Nachten incl. ontbijt voor 2 personen
-  - 4-Gangendiner voor 2 personen
+  - 3-Gangendiner voor 2 personen
   - Vrij gebruik van wellnessfaciliteiten
+- title: Bilderberg Europa hotel
+  location: Scheveningen
+  tagline: WELLNESS AAN DE KUST
+  image: forestryio/images/Hoofdfoto_verkleind.jpg
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=465&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
+  points:
+  - 2 Nachten incl. ontbijt voor 2 personen
+  - Vrij gebruik van wellnessfaciliteiten
+  - Gratis late checkout
 - title: Post-Plaza Hotel & Grand Café
   location: Leeuwarden
   tagline: HIP HOTEL IN HISTORISCH LEEUWARDEN
@@ -26,6 +35,24 @@
   - 2 Nachten incl. ontbijt voor 2 personen
   - 3-Gangendiner voor 2 personen
   - Vrij gebruik van wellnessfaciliteiten
+- title: Hampshire Hotel Zuid Drente
+  location: Erica
+  tagline: DROMEN IN DRENTHE
+  image: forestryio/images/Hampshire_ZuidDrenthe.png
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=203&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
+  points:
+  - 2 Nachten incl. ontbijt voor 2 personen
+  - 4-Gangendiner voor 2 personen
+  - Vrij gebruik van wellnessfaciliteiten
+- title: Lindner Hotel & City Lounge
+  location: Antwerpen
+  tagline: 4 STERREN HOTEL IN HARTJE ANWERPEN
+  image: forestryio/images/Lindner_Antwerpen.png
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=196&country=4&la=2&autoLogin=true&actie=ETOS-CQGHJ
+  points:
+  - 2 Nachten incl. ontbijt voor 2 personen
+  - Fles bubbels op de kamer
+  - Vrij gebruik van fitness en sauna
 - title: Grand Hotel Opduin
   location: Texel
   tagline: HOOFD LEEG OP TEXEL
@@ -44,42 +71,6 @@
   - 2 Nachten incl. ontbijt voor 2 personen
   - 3-Gangendiner voor 2 personen
   - Vrij gebruik van wellnessfaciliteiten
-- title: Princes Hotel de Wipselberg
-  location: Beekbergen
-  tagline: NATIONAAL PARK, PALEIS, APENHEUL
-  image: forestryio/images/Wipselberg.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=345&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
-  points:
-  - 2 Nachten incl. ontbijt voor 2 personen
-  - 3-Gangendiner voor 2 personen
-  - Fietshuur incl. routes
-- title: Herberg de Gouden Leeuw
-  location: Bronkhorst
-  tagline: OVERNACHT IN NL'S KLEINSTE STADJE
-  image: forestryio/images/Gouden_leeuw.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=385&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
-  points:
-  - 2 Nachten incl. ontbijt voor 2 personen
-  - 1 x 3-Gangendiner voor 2 personen
-  - 1 x 4-Gangendiner voor 2 personen
-- title: Princes Hotel Loosdrecht-Amsterdam
-  location: Loosdrecht
-  tagline: LEKKER LOOSDRECHT
-  image: forestryio/images/Princess_Loosdrecht.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=245&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
-  points:
-  - 2 x Nachten incl. ontbijt voor 2 personen
-  - 3-Gangendiner voor 2 personen
-  - Fietshuur incl. gevulde picknickmand
-- title: Bilderberg Europa hotel
-  location: Scheveningen
-  tagline: WELLNESS AAN DE KUST
-  image: forestryio/images/Hoofdfoto_verkleind.jpg
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=465&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
-  points:
-  - 2 Nachten incl. ontbijt voor 2 personen
-  - Vrij gebruik van wellnessfaciliteiten
-  - Gratis late checkout
 - title: Huis ten Wolde
   location: De Bult
   tagline: ONTDEK HOLLANDS VENETIE
@@ -89,33 +80,6 @@
   - 3 Nachten incl. ontbijt voor 2 personen
   - Facial of massage voor 2 personen
   - Vrij gebruik van wellnessfaciliteiten
-- title: Princes Hotel Beekbergen
-  location: Beekbergen
-  tagline: 2 VOLLE DAGEN NABIJ APELDOORN
-  image: forestryio/images/Princess_Beekbergen.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=390&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
-  points:
-  - 2 Nachten incl. ontbijt voor 2 personen
-  - 3-Gangendiner voor 2 personen
-  - Fietshuur incl. routes
-- title: Hampshire Paping en Spa
-  location: Ommen
-  tagline: SPA & WELLNESS HOTEL
-  image: forestryio/images/paping.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=350&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
-  points:
-  - 2 Nachten incl. ontbijt voor 2 personen
-  - 3-Gangendiner voor 2 personen
-  - Vrij gebruik van wellnessfaciliteiten
-- title: Princes Hotel Epe
-  location: Epe
-  tagline: VERSCHOLEN TUSSEN DE VELUWSE BOSSEN
-  image: forestryio/images/Princess_Epe.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=209&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
-  points:
-  - " 2 Nachten incl. ontbijt voor 2 personen"
-  - 3-Gangendiner voor 2 personen
-  - Fietshuur incl. routes
 - title: Badhotel Rockanje
   location: Rockanje
   tagline: UNIEKE DUINKAMER OF LODGE
@@ -134,15 +98,6 @@
   - 3 Nachten incl. ontbijt voor 2 personen
   - 3-Gangendiner voor 2 personen
   - Ontvangst met glas prosecco
-- title: Princes Hotel Victoria
-  location: Hoenderloo
-  tagline: HEERLIJK TOEVEN OP DE VELUWE
-  image: forestryio/images/Princess_Victoria.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=276&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
-  points:
-  - 2 Nachten incl. ontbijt voor 2 personen
-  - 3-Gangendiner voor 2 personen
-  - Gebruik van bowlingbaan
 - title: Delta Hotel Vlaardingen
   location: Vlaardingen
   tagline: RIVERVIEW SUITE NABIJ ROTTERDAM
@@ -152,24 +107,6 @@
   - 2 Nachten incl. ontbijt voor 2 personen
   - Welkomstdrankje
   - Gratis parkeren
-- title: Princes Hotel Dorhout Mees
-  location: Biddinghuizen
-  tagline: UNIEK GOLF ARRANGEMENT
-  image: forestryio/images/Princes_DorhoutMees.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=252&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
-  points:
-  - 2 Nachten incl. ontbijt voor 2 personen
-  - 18 holes Greenfee voor 2 personen
-  - Prachtige omgeving
-- title: Princes Hotel Amersfoort
-  location: Amersfoort
-  tagline: 'SHOPPEN OF DIERENPARK? '
-  image: forestryio/images/Princess_Amersfoort.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=240&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
-  points:
-  - 2 Nachten incl. ontbijt voor 2 personen
-  - 3-Gangendiner incl. bubbels voor 2 personen
-  - Portie ‘Bar bites’
 - title: Court hotel City Centre
   location: Utrecht
   tagline: PROEF DE RIJKE HISTORIE
