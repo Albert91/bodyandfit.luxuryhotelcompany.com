@@ -3,7 +3,7 @@
   location: Bronkhorst
   tagline: OVERNACHT IN NL'S KLEINSTE STADJE
   image: forestryio/images/Gouden_leeuw.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=385&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=385&country=1&la=2&autoLogin=true&actie=U0D3-HYTA-XHP9
   points:
   - 2 Nachten incl. ontbijt voor 2 personen
   - 1 x 3-Gangendiner voor 2 personen
@@ -12,7 +12,7 @@
   location: Ommen
   tagline: SPA & WELLNESS HOTEL
   image: forestryio/images/paping.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=350&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=350&country=1&la=2&autoLogin=true&actie=U0D3-HYTA-XHP9
   points:
   - 2 Nachten incl. ontbijt voor 2 personen
   - 3-Gangendiner voor 2 personen
@@ -21,7 +21,7 @@
   location: Scheveningen
   tagline: WELLNESS AAN DE KUST
   image: forestryio/images/Hoofdfoto_verkleind.jpg
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=465&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=465&country=1&la=2&autoLogin=true&actie=U0D3-HYTA-XHP9
   points:
   - 2 Nachten incl. ontbijt voor 2 personen
   - Vrij gebruik van wellnessfaciliteiten
@@ -30,7 +30,7 @@
   location: Leeuwarden
   tagline: HIP HOTEL IN HISTORISCH LEEUWARDEN
   image: forestryio/images/Hotel_PostPlaze.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=207&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=207&country=1&la=2&autoLogin=true&actie=U0D3-HYTA-XHP9
   points:
   - 2 Nachten incl. ontbijt voor 2 personen
   - 3-Gangendiner voor 2 personen
@@ -39,16 +39,22 @@
   location: Erica
   tagline: DROMEN IN DRENTHE
   image: forestryio/images/Hampshire_ZuidDrenthe.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=203&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=203&country=1&la=2&autoLogin=true&actie=U0D3-HYTA-XHP9
   points:
   - 2 Nachten incl. ontbijt voor 2 personen
   - 4-Gangendiner voor 2 personen
   - Vrij gebruik van wellnessfaciliteiten
+- title: Hotel Landgoed Ehzerwold
+  location: Almen
+  tagline: HISTORISCH LANDGOED MIDDEN IN DE NATUUR
+  image: "/uploads/2017/03/07/LandgoedEhzerwold.jpg"
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=445&country=1&la=2&autoLogin=true&actie=U0D3-HYTA-XHP9
+  points: []
 - title: Lindner Hotel & City Lounge
   location: Antwerpen
   tagline: 4 STERREN HOTEL IN HARTJE ANWERPEN
   image: forestryio/images/Lindner_Antwerpen.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=196&country=4&la=2&autoLogin=true&actie=ETOS-CQGHJ
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=196&country=4&la=2&autoLogin=true&actie=U0D3-HYTA-XHP9
   points:
   - 2 Nachten incl. ontbijt voor 2 personen
   - Fles bubbels op de kamer
@@ -57,7 +63,7 @@
   location: Texel
   tagline: HOOFD LEEG OP TEXEL
   image: forestryio/images/Grandhotel_Opduin.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=418&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=418&country=1&la=2&autoLogin=true&actie=U0D3-HYTA-XHP9
   points:
   - 1 Nacht incl. ontbijt voor 2 personen
   - 3-Gangendiner voor 2 personen
@@ -66,7 +72,7 @@
   location: Oranjewoud
   tagline: CHARMANT FRIESLAND
   image: forestryio/images/GoldenTulip_Tjaarda_Oranjewoud.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=393&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=393&country=1&la=2&autoLogin=true&actie=U0D3-HYTA-XHP9
   points:
   - 2 Nachten incl. ontbijt voor 2 personen
   - 3-Gangendiner voor 2 personen
@@ -75,7 +81,7 @@
   location: De Bult
   tagline: ONTDEK HOLLANDS VENETIE
   image: forestryio/images/huis ten wolde.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=448&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=448&country=1&la=2&autoLogin=true&actie=U0D3-HYTA-XHP9
   points:
   - 3 Nachten incl. ontbijt voor 2 personen
   - Facial of massage voor 2 personen
@@ -84,7 +90,7 @@
   location: Rockanje
   tagline: UNIEKE DUINKAMER OF LODGE
   image: forestryio/images/Badhotel_Rockanje.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=428&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=428&country=1&la=2&autoLogin=true&actie=U0D3-HYTA-XHP9
   points:
   - 2 x Overnachting incl. ontbijt voor 2 personen
   - Fietshuur voor 2 personen
@@ -93,7 +99,7 @@
   location: Appeltern
   tagline: 'GASTVRIJ & GEMOEDELIJK GELDERLAND '
   image: forestryio/images/Hotel_MoekeMooren.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=437&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=437&country=1&la=2&autoLogin=true&actie=U0D3-HYTA-XHP9
   points:
   - 3 Nachten incl. ontbijt voor 2 personen
   - 3-Gangendiner voor 2 personen
@@ -102,7 +108,7 @@
   location: Vlaardingen
   tagline: RIVERVIEW SUITE NABIJ ROTTERDAM
   image: forestryio/images/Delta_Vlaardingen.png
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=250&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=250&country=1&la=2&autoLogin=true&actie=U0D3-HYTA-XHP9
   points:
   - 2 Nachten incl. ontbijt voor 2 personen
   - Welkomstdrankje
@@ -111,7 +117,7 @@
   location: Utrecht
   tagline: PROEF DE RIJKE HISTORIE
   image: forestryio/images/Court hotel Utrecht CC.jpg
-  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=458&country=1&la=2&autoLogin=true&actie=ETOS-CQGHJ
+  link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=458&country=1&la=2&autoLogin=true&actie=U0D3-HYTA-XHP9
   points:
   - 2 Nachten incl. ontbijt voor 2 personen
   - Ontvangst met prosecco
