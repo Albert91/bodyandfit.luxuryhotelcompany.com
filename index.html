@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<div class="row">
+  <div class="hotel-row">
+  {% for hotel in site.data.hotels %}
+    {% include hotel.html %}
+  {% endfor %}
+    <div class="col-xs-12 col-sm-6 col-md-4">
+      <div class="hotel">
+        <a target="_blank" href="http://www.luxuryhotelcompany.com/Hotels.aspx?country=1&la=2&PlayAni=true" class="image" style="background-image: url('/img/hotels/dummy.png')">
+          <h6>&nbsp;</h6>
+        </a>
+        <div class="tagline">
+          <div class="row">
+            <div class="col-xs-2 text-center">
+              <span style="background: none"></span>
+            </div>
+            <div class="col-xs-10">
+              <p>&nbsp;</p>
+            </div>
+          </div>
+        </div>
+        <a target="_blank" href="http://www.luxuryhotelcompany.com/Hotels.aspx?country=1&la=2&PlayAni=true" class="btn btn-lg btn-default btn-block btn-hotel btn-all-hotel" style="background-color: #0CB7C8;">BEKIJK ALLE HOTELS</a>
+        <div class="action-points">
+          <ul class="list-unstyled">
+            <li><span>&#8730;</span>Betaal achteraf in het hotel</li>
+            <li><span>&#8730;</span>Keuze uit meer dan 200 hotels</li>
+            <li><span>&#8730;</span>Prijs incl. arrangementen</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

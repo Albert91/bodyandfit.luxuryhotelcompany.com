@@ -1,0 +1,25 @@
+<div class="col-xs-12 col-sm-6 col-md-4">
+  <div class="hotel">
+    <a target="_blank" href="{{ hotel.link }}" class="image" style="background-image: url('{{ hotel.image }}')">
+      <h6>{{ hotel.title }} | {{ hotel.location }}</h6>
+    </a>
+    <div class="tagline">
+      <div class="row">
+        <div class="col-xs-2 text-center">
+          <span>{{ forloop.index }}</span>
+        </div>
+        <div class="col-xs-10">
+          <p>{{ hotel.tagline }}</p>
+        </div>
+      </div>
+    </div>
+    <a target="_blank" href="{{ hotel.link }}" class="btn btn-lg btn-default btn-block btn-hotel">BEKIJK NU</a>
+    <div class="action-points">
+      <ul class="list-unstyled">
+      {% for point in hotel.points %}
+      <li><span>&#8730;</span>{{ point }}</li>
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,239 @@
+---
+# Main
+---
+@charset "utf-8";
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900,700italic,900italic,500italic,400italic,300italic,100italic);
+@import "bootstrap-custom";
+@import "mixins";
+@import "flipclock";
+
+$color-orange: #F29100;
+$color-green: #0CB7C8;
+
+.header {
+  .lhc {
+    margin-top: 40px;
+    margin-bottom: 30px;
+  }
+  .etos {
+    margin-top: 60px;
+    margin-bottom: 10px;
+  }
+}
+
+.hero {
+  background-color: #0CB7C8;
+  display: inline-block;
+  width: 100%;
+
+  > .head {
+    color: #fff;
+    font-weight: 200;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: 2.4rem;
+
+    > strong {
+      font-weight: 400;
+    }
+  }
+
+  > p {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 1.8rem;
+  }
+}
+
+.actionbar {
+  display: inline-block;
+  width: 100%;
+  background-color: #0CB7C8;
+  color: #fff;
+  font-size: 2.1rem;
+  font-weight: 100;
+  padding-top: 15px;
+}
+
+.hotel-row {
+  background-color: #EDEFED;
+  display: inline-block;
+  width: 100%;
+  margin-bottom: -5px;
+}
+
+.hotel {
+  display: inline-block;
+  width: 100%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+  > .image {
+    display: inline-block;
+    width: 100%;
+    height: 271px;
+    background-position: center center;
+    background-size: cover;
+
+    > h6 {
+      color: #fff;
+      margin-top: 245px;
+      margin-left: 15px;
+      margin-bottom: 0;
+      font-size: 1.6rem;
+      font-weight: 400;
+      white-space: nowrap;
+      @include text-truncate();
+    }
+  }
+
+  > .tagline {
+    background-color: #F4F6F6;
+
+    p {
+      color: #6E6E6E;
+      line-height: 40px;
+      margin: 0;
+      white-space: nowrap;
+      @include text-truncate();
+    }
+
+    span {
+      display: inline-block;
+      margin-top: 5px;
+      margin-left: 15px;
+      width: 31px;
+      height: 31px;
+      color: #fff;
+      font-weight: 400;
+      font-size: 1.7rem;
+      line-height: 31px;
+      background-image: url('/img/green-oval.png');
+    }
+  }
+
+  > .btn-hotel {
+    background-color: $color-orange;
+    border: none;
+    border-radius: 0;
+    color: #fff;
+    line-height: 40px;
+    font-size: 3.4rem;
+    font-weight: 100;
+    margin-bottom: 0;
+  }
+
+  > .action-points {
+    display: inline-block;
+    width: 100%;
+    background-color: #fff;
+
+    > ul {
+      margin-left: 35px;
+      margin-top: 15px;
+
+      > li {
+        color: #6E6E6E;
+        line-height: 35px;
+        font-size: 1.4rem;
+        font-weight: 300;
+        white-space: nowrap;
+        @include text-truncate();
+
+        > span {
+          color: $color-green;
+          margin-right: 10px;
+        }
+      }
+    }
+  }
+}
+
+.actionpoints {
+  display: inline-block;
+  margin: 25px 0 20px 0;
+  padding: 0;
+
+  > li {
+    float: left;
+    padding: 10px 35px 10px 40px;
+    font-size: 2.0rem;
+    background-image: url('/img/thingy.png');
+    background-position: top left;
+    background-repeat: no-repeat;
+  }
+}
+
+.footer {
+  background-color: #0CB7C8;
+}
+
+.disclaimer {
+  list-style: none;
+  display: inline-block;
+  line-height: 3;
+  margin-bottom: 0;
+
+  > li {
+    float: left;
+    display: inline-block;
+    margin-bottom: 0;
+    margin-right: 20px;
+    color: #fff;
+
+    > a {
+      color: #fff;
+
+      &:hover {
+        color: #fff;
+      }
+    }
+  }
+}
+
+#myModal {
+  .fun {
+    background-image: url('/img/kadp.png');
+    background-repeat: no-repeat;
+    background-position: center left;
+    padding-left: 60px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+  }
+
+  .btn-orange {
+    background-color: $color-orange;
+    border: none;
+    border-radius: 0;
+    color: #fff;
+    line-height: 40px;
+    font-size: 2.8rem;
+    font-weight: 100;
+    margin-bottom: 0;
+  }
+
+  .modal-footer {
+    padding: 0;
+  }
+
+  .modal-content {
+    border-radius: 0;
+  }
+}
+
+@media (max-width: 320px) {
+  .hotel > .btn-all-hotel {
+    font-size: 20px;
+  }
+}
+@media (max-width: 768px) and (min-width: 320px) {
+  .hotel > .btn-all-hotel {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 1024px) and (min-width: 768px) {
+  .hotel > .btn-all-hotel {
+    font-size: 27px;
+  }
+}
