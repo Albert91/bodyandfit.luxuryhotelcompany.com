@@ -1,4 +1,5 @@
-all_hotel_link: http://www.luxuryhotelcompany.com/Hotels.aspx?country=1&la=2&PlayAni=true
+---
+all_hotel_link: 'http://www.luxuryhotelcompany.com/Hotels.aspx?country=1&la=2&actie=U0D3-HYTA-XHP9&autoLogin=true '
 homepage_bulletpoint_1: Betaal achteraf in het hotel
 homepage_bulletpoint_2: Keuze uit meer dan 200 hotels
 homepage_bulletpoint_3: Prijs incl. arrangementen
@@ -11,5 +12,6 @@ hero_sub_title: Boek snel voor de beste kamers...
 modal_title: Welkom gast,
 modal_line_1: Veel plezier met het maken van uw boeking!
 modal_line_2: U bent nog maar 1 stap verwijderd van<br>een heerlijk luxe hotelverblijf.
-modal_line_3: Om het u zo gemakkelijk mogelijk te maken hebben wij alvast een topselectie gemaakt uit ons aanbod.
-modal_name: <em>Elize de Ruijter<br><small>LuxuryHotelCompany</small></em>
+modal_line_3: Om het u zo gemakkelijk mogelijk te maken hebben wij alvast een topselectie
+  gemaakt uit ons aanbod.
+modal_name: "<em>Elize de Ruijter<br><small>LuxuryHotelCompany</small></em>"
