@@ -8,7 +8,7 @@ layout: default
   {% endfor %}
     <div class="col-xs-12 col-sm-6 col-md-4">
       <div class="hotel">
-        <a target="_blank" href="http://www.luxuryhotelcompany.com/Hotels.aspx?country=1&la=2&PlayAni=true" class="image" style="background-image: url('/img/hotels/dummy.png')">
+        <a target="_blank" href="{{ site.data.texts.all_hotel_link }}" class="image" style="background-image: url('/img/hotels/dummy.png')">
           <h6>&nbsp;</h6>
         </a>
         <div class="tagline">
@@ -21,12 +21,12 @@ layout: default
             </div>
           </div>
         </div>
-        <a target="_blank" href="http://www.luxuryhotelcompany.com/Hotels.aspx?country=1&la=2&PlayAni=true" class="btn btn-lg btn-default btn-block btn-hotel btn-all-hotel" style="background-color: #0CB7C8;">BEKIJK ALLE HOTELS</a>
+        <a target="_blank" href="{{ site.data.texts.all_hotel_link }}" class="btn btn-lg btn-default btn-block btn-hotel btn-all-hotel" style="background-color: #0CB7C8;">BEKIJK ALLE HOTELS</a>
         <div class="action-points">
           <ul class="list-unstyled">
-            <li><span>&#8730;</span>Betaal achteraf in het hotel</li>
-            <li><span>&#8730;</span>Keuze uit meer dan 200 hotels</li>
-            <li><span>&#8730;</span>Prijs incl. arrangementen</li>
+            <li><span>&#8730;</span>{{ site.data.texts.homepage_bulletpoint_1 }}</li>
+            <li><span>&#8730;</span>{{ site.data.texts.homepage_bulletpoint_2 }}</li>
+            <li><span>&#8730;</span>{{ site.data.texts.homepage_bulletpoint_3 }}</li>
           </ul>
         </div>
       </div>
